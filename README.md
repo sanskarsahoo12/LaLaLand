@@ -1,2 +1,1 @@
-# LaLaLand
-Hello World
+# LaLa
